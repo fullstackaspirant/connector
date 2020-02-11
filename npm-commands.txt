@@ -1,1 +1,2 @@
-npm install express express-validator bcryptjs config gravatar jsonwebtoken mongoose request
+npm install express express-validator bcryptjs config gravatar jsonwebtoken mongoose request --save
+npm install -D nodemon concurrently --save
